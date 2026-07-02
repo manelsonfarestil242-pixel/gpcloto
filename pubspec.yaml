@@ -35,7 +35,7 @@ dependencies:
   uuid: ^4.4.0
   
   # Printing (ESC/POS)
-  esc_pos_utils: ^2.0.0+2
+  esc_pos_utils: ^1.1.0
   
   cupertino_icons: ^1.0.6
 
